@@ -65,22 +65,70 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 - - -
 
-## Current Avalyn Discord Commands.
-- As the title suggests, these commands are only for the moderation, organization, and overall maintenance of your Discord servers, channels, and users!
+# Discord Commands
 
-`/ban [User]` This cammand allows you to ban a specified user from your server(s).
+Utility Commands
+-
+`/user` - This command simply displays the information of the command user.
 
-`/kick [User]` This cammand allows you to kick a specified user from your server(s).
+`/ping` - This command simply displays the current Latency/Ping of Avalyn.
 
-`/ping` This command allows you to view the Latency/Ping of the Avalyn Discord Assistant.
+`/server` - This command simply displays the current server's information.
 
-`/purge [1 - 99]` This command simply allows you to remove (purge) messages from the channel where the command was used.
+`/specs` - This displays information and specifications regarding Avalyn.
 
-`/server` This command allows you to view the Latency/Ping of the Avalyn Discord Assistant.
+`/purge [1-99]` - This removes the specified amount of channel messages.
 
-`/user` This command allows the user to view basic server use information (Self Only).
+Moderation Commands
+-
+`/kick [User]` - This simply kicks a specific user from a Discord server.
 
-#
+`/ban [User]` - This simply bans a specific user from a Discord server.
 
-## Current Avalyn Blockchain Commands.
-`/genesis` This command allows the command user to create a genesis block for their own Blockchain and Cryptocurrency!
+`/timeout [User]` - This simply puts a specific user in a timeout.
+
+Blockchain Commands
+-
+`/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
+
+`/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
+
+`/height` - This displays the current height of the Avalyn Blockchain.
+
+`/price [Cryptocurrency]` - This displays the price of a specific cryptocurrency.
+
+Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
+
+# Upcoming Commands & Features.
+You can find a full listing of commands and features at
+- https://getavalyn.org/commands
+
+Basic Mathematics Commands
+-
+`/add [35+32]` - This command allows you to solve basic Addition equations.
+
+`/subtract [100-52]` - This command allows you to solve basic Subtraction equations.
+
+`/multiply [250x7]` - This command allows you to solve basic Multiplication equations.
+
+Music Commands
+-
+`/play [Track]` - This command simply resumes the current track.
+
+`/pause` - This command simply pauses the current track.
+
+`/stop` - This command simply stops the current track.
+
+`/next` - This command simply plays the next track.
+
+`/prev` - This command simply plays the previous track.
+
+`/url [URL of Track]` - This command allows you to play a track from a URL.
+
+`/yt [URL]` - This command allows you to play a track from a YouTube URL.
+
+`/kw [Search Term]` - This command allows you to find tracks from keyword searches.
+
+`/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
+
+`The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network [2022] [2023].`

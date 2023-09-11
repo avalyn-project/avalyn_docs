@@ -64,7 +64,7 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 `[Mint]:` <a href="https://distro.xnitc.com/Linux/Mint/" target="_blank">https://xnitc.com/distro/Linux/Mint/</a>
 
-# 
+- - -
 
 ## Current Avalyn Discord Commands.
 `/ban [User]` This cammand allows you to ban a specified user from your server(s).

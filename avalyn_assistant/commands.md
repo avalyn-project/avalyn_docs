@@ -66,6 +66,8 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 - - -
 
 ## Current Avalyn Discord Commands.
+- As the title suggests, these commands are only for the moderation, organization, and overall maintenance of your Discord servers, channels, and users!
+
 `/ban [User]` This cammand allows you to ban a specified user from your server(s).
 
 `/kick [User]` This cammand allows you to kick a specified user from your server(s).

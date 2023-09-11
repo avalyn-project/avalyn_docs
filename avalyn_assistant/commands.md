@@ -49,6 +49,9 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </td>
 </tr>
 </table>
+
+###
+
 You can use any distributions of linux with Avalyn, it does not have to be Ubuntu.
 
 There will be multiple distributions hosted on our servers at <a href="https://distro.xnitc.com/Linux" target="_blank">https://xnitc.com/distro/Linux/</a>

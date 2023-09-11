@@ -111,8 +111,8 @@ You can find a full listing of commands and features at
 
 `/multiply [250x7]` - This command allows you to solve basic Multiplication equations.
 
-Music Commands
--
+## Music Commands
+
 `/play [Track]` - This command simply resumes the current track.
 
 `/pause` - This command simply pauses the current track.

@@ -6,7 +6,7 @@
 <p align="center">
 Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web Client. | RPC Client. | Open Source.
 </p>
-
+#
 <table border="0" align="center">
 <tr>
 <td>

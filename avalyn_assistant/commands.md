@@ -67,8 +67,8 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 # Discord Commands
 
-Utility Commands
--
+## Utility Commands
+
 `/user` - This command simply displays the information of the command user.
 
 `/ping` - This command simply displays the current Latency/Ping of Avalyn.
@@ -79,16 +79,16 @@ Utility Commands
 
 `/purge [1-99]` - This removes the specified amount of channel messages.
 
-Moderation Commands
--
+## Moderation Commands
+
 `/kick [User]` - This simply kicks a specific user from a Discord server.
 
 `/ban [User]` - This simply bans a specific user from a Discord server.
 
 `/timeout [User]` - This simply puts a specific user in a timeout.
 
-Blockchain Commands
--
+## Blockchain Commands
+
 `/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
 
 `/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
@@ -103,8 +103,8 @@ Still, this is not all that Avalyn is, as you see the commands /print and /heigh
 You can find a full listing of commands and features at
 - https://getavalyn.org/commands
 
-Basic Mathematics Commands
--
+## Basic Mathematics Commands
+
 `/add [35+32]` - This command allows you to solve basic Addition equations.
 
 `/subtract [100-52]` - This command allows you to solve basic Subtraction equations.

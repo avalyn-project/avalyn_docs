@@ -8,7 +8,7 @@
 > This command allows you to view the Latency/Ping of the Avalyn Discord Assistant.
 
 `/purge [1 - 99]`
-> This command simply allows you to remove (purge) a specified amount of messages from the channel where the command was used.
+> This command simply allows you to remove (purge) messages from the channel where the command was used.
 
 `/server`
 > This command allows you to view the Latency/Ping of the Avalyn Discord Assistant.

@@ -9,3 +9,4 @@
 `/server` This command allows you to view the Latency/Ping of the Avalyn Discord Assistant.
 
 `/user` This command allows the user to view basic server use information (Self Only).
+-

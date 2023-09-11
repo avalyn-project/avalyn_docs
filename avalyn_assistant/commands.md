@@ -100,8 +100,6 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
 
 # Upcoming Commands & Features.
-You can find a full listing of commands and features at
-- https://getavalyn.org/commands
 
 ## Basic Mathematics Commands
 

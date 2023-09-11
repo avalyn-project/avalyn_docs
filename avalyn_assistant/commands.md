@@ -73,3 +73,6 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 `/user` This command allows the user to view basic server use information (Self Only).
 
 #
+
+## Current Avalyn Blockchain Commands.
+`/genesis` This command allows the command user to create a genesis block for their own Blockchain and Cryptocurrency!

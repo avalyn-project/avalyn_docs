@@ -1,5 +1,4 @@
-`/ban [User]`
-> This cammand allows you to ban a specified user from your server(s).
+`/ban [User]` **This cammand allows you to ban a specified user from your server(s).**
 
 `/kick [User]`
 > This cammand allows you to kick a specified user from your server(s).

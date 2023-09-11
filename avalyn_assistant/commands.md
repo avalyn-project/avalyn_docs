@@ -52,7 +52,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 </table>
 
-###
+- - -
 
 You can use any distributions of linux with Avalyn, it does not have to be Ubuntu.
 

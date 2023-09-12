@@ -128,6 +128,10 @@ or
 
 `npm install [package] –save`
 
+then run `npm update`
+
+#
+
 What is Avalyn?
 -
 Avalyn is a Discord Assistant that can do more than simply help you with the moderation, organization, and overall management of your Discord servers and channels.
@@ -207,7 +211,7 @@ Music Commands
 
 `/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
 
-`The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network [2022] [2023].`
+The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network.
 
 
 
@@ -326,4 +330,4 @@ Side note to the users, Avalyn Discord Assistant tries to collect as little data
 
 The only actual data that is used is the data within the configuration, even then it is only passed when it is required and only to the respective locations as needed.
 
-
+#

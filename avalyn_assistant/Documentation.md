@@ -1,9 +1,15 @@
+# 
 <p align="center">
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>
+
+#
+
 <p align="center">
-Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web Client. | RPC Client. | Open Source.
+Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI. | Backend RPC Client.
 </p>
+
+#
 
 <table border="0" align="center">
 <tr>
@@ -49,9 +55,13 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </td>
 </tr>
 </table>
-You can use any distributions of linux with Avalyn, it does not have to be Ubuntu.
+Although it is recommended that you use the Ubuntu Linux distribution, it is not required.
 
 There will be multiple distributions hosted on our servers at <a href="https://distro.xnitc.com/Linux" target="_blank">https://xnitc.com/distro/Linux/</a>
+
+#
+
+`Avalyn Self Hosting Method`
 
 `[Ubuntu]:` <a href="https://distro.xnitc.com/Linux/Ubuntu/" target="_blank">https://xnitc.com/distro/Linux/Ubuntu/</a>
 
@@ -75,37 +85,42 @@ Documentation Dates
 
 The Avalyn Project
 -
-Avalyn Web UI/RPC [Demos]
-- https://getavalyn.org/ [Beta]
-- https://rpc-client.getavalyn.org/ [Beta]
+- Avalyn Web UI/RPC Client [Demos]
+- - > https://getavalyn.org/ `[Beta]`
+- - > https://rpc-client.getavalyn.org/ `[Beta]`
 
-Social Media
-- https://twitter.com/avalyn_project/
+- Social Media
+- - > https://twitter.com/avalyn_project/
 
-Keep in touch
-- bugs@getavalyn.org
-- contact@getavalyn.org
+- Keep in touch
+- - > bugs@getavalyn.org
+- - > contact@getavalyn.org
 
 Powered by The XNITC Network [2023]
 
 On the web
 - https://xnitc.com/
+- - > contact@xnitc.com
 
 Avalyn Discord Assistant NPM Requirements
 -
-- Discord.js v14.10.2
-- CLI-Color v2.0.3
-- Crypto v1.0.1
-- Crypto-JS v4.1.1
-- Cors v2.8.5
-- Body-Parser v1.20.2
-- Express v4.18.2
-- Web3 v4.1.1
+- - > Discord.js v14.10.2
+- - > CLI-Color v2.0.3
+- - > Crypto v1.0.1
+- - > Crypto-JS v4.1.1
+- - > Cors v2.8.5
+- - > Body-Parser v1.20.2
+- - > Express v4.18.2
+- - > Web3 v4.1.1
+
+#
 
 To install the required NPM packages, within the terminal, in the Avalyn main directory you will need to run the following command.
 npm install or npm update
 
-`If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.`
+If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.
+
+#
 
 `npm install [package]`
 
@@ -119,7 +134,7 @@ Avalyn is a Discord Assistant that can do more than simply help you with the mod
 
 Avalyn can also
 - Parse SHA256 Data.
-- Parse Base58 Data.
+- - Parse Base58 Data.
 
 
 Avalyn can also assist you with creating Genesis Blocks for your own Blockchains and Cryptocurrencies via the Prototype Alice: Genesis Block Plugin created by The Avalyn Project.
@@ -207,24 +222,24 @@ Which includes the following web based settings and configuration.
 
 Avalyn Web Configuration. (Main Configuration)
 -
-- [Home] (home.html)
-- [About] (about.html)
-- [Invite] (invite.html)
-- [Donate] (donate.html)
+- [Home] (<a href="https://getavalyn.org/" target="_blank">home.html</a>)
+- - [About] (<a href="https://getavalyn.org/about" target="_blank">about.html</a>)
+- - - [Invite] (<a href="https://getavalyn.org/invite" target="_blank">invite.html</a>)
+- - - - [Donate] (<a href="https://getavalyn.org/donate" target="_blank">donate.html</a>)
 
 Avalyn Web Settings/Configuration. (Developmental)
 -
-- [Developmental] (hub.html)
-- [Avalyn (AVY)] (crypto.html)
-- [Avalyn Blockchain] (blocks.html)
-- [Avalyn Wallet] (wallet.html)
+- [Developmental] (<a href="https://getavalyn.org/dev" target="_blank">hub.html</a>)
+- - [Avalyn (AVY)] (<a href="https://getavalyn.org/dev/crypto" target="_blank">crypto.html</a>)
+- - - [Avalyn Blockchain] (<a href="https://getavalyn.org/dev/blockchain" target="_blank">blocks.html</a>)
+- - - - [Avalyn Wallet] (<a href="https://getavalyn.org/dev/wallet" target="_blank">wallet.html</a>)
 
 Avalyn Support/Donation Methods. (Can be changed)
 -
-- [PayPal] (paypal.html)
-- [Bitcoin] (btc.html)
-- [Ethereum] (eth.html)
-- [Polkadot] (dot.html)
+- [PayPal] (<a href="https://getavalyn.org/donate/paypal" target="_blank">paypal.html</a>)
+- - [Bitcoin] (<a href="https://getavalyn.org/donate/btc" target="_blank">btc.html</a>)
+- - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a>)
+- - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a>)
 
 `All support is truly appreciated.`
 
@@ -240,10 +255,10 @@ Avalyn RPC Usage Cases
 -
 This includes, but not limited to
 
-- Genesis Block Creation. (/avalyn-client/genesis)
-- Avalyn Crypto Wallet Creation. (/avalyn-client/wallet)
-- Avalyn Blockchain Data. (/avalyn-client/height, /avalyn-client/blocks [Number Number])
-- Stock or Cryptocurrency Price Checks. (/avalyn-client/stock [Name], /avalyn-client/crypto [Name])
+- Genesis Block Creation. (/genesis)
+- Avalyn Crypto Wallet Creation. (/wallet)
+- Avalyn Blockchain Data. (/height, /blocks [Number Number])
+- Stock or Cryptocurrency Price Checks. (/stock [Name/Ticker], /crypto [Name/Ticker])
 
 
 Updates to the

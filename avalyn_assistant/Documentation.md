@@ -11,6 +11,11 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
+> <a href="./includes/commands.md" target="_blank">Full Command Documentation.</a> [Current Commands & Beta Commands]
+
+> <a href="./includes/features.md" target="_blank">Full Feature Documentation.</a> [Current Features & Beta Features]
+#
+
 <table border="0" align="center">
 <tr>
 <td>
@@ -145,125 +150,11 @@ Avalyn can also assist you with creating Genesis Blocks for your own Blockchains
 
 There are so many Avalyn commands and features to come in future updates.
 
-# Discord Commands
-
-Utility Commands
--
-`/user` - This command simply displays the information of the command user.
-
-`/ping` - This command simply displays the current Latency/Ping of Avalyn.
-
-`/server` - This command simply displays the current server's information.
-
-`/specs` - This displays information and specifications regarding Avalyn.
-
-`/purge [1-99]` - This removes the specified amount of channel messages.
-
-Moderation Commands
--
-`/kick [User]` - This simply kicks a specific user from a Discord server.
-
-`/ban [User]` - This simply bans a specific user from a Discord server.
-
-`/timeout [User]` - This simply puts a specific user in a timeout.
-
-Blockchain Commands
--
-`/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
-
-`/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
-
-`/height` - This displays the current height of the Avalyn Blockchain.
-
-`/price [Cryptocurrency]` - This displays the price of a specific cryptocurrency.
-
-Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
-
-# Upcoming Commands & Features.
-You can find a full listing of commands and features at
-- https://getavalyn.org/commands
-
-Basic Mathematics Commands
--
-`/add [35+32]` - This command allows you to solve basic Addition equations.
-
-`/subtract [100-52]` - This command allows you to solve basic Subtraction equations.
-
-`/multiply [250x7]` - This command allows you to solve basic Multiplication equations.
-
-Music Commands
--
-`/play [Track]` - This command simply resumes the current track.
-
-`/pause` - This command simply pauses the current track.
-
-`/stop` - This command simply stops the current track.
-
-`/next` - This command simply plays the next track.
-
-`/prev` - This command simply plays the previous track.
-
-`/url [URL of Track]` - This command allows you to play a track from a URL.
-
-`/yt [URL]` - This command allows you to play a track from a YouTube URL.
-
-`/kw [Search Term]` - This command allows you to find tracks from keyword searches.
-
-`/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
+#
 
 The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network.
 
-
-
-# Avalyn Web UI
-Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, which allows the self hosting of web pages within the Avalyn Framework.
-
-`We have taken the liberty of creating the HTTP/HTTPS (SSL) virtual host files (WEB UI and RPC Client) you can find the virtual host configurations within the "includes" directory.`
-
-`Edit the files however you need to, once you have set your virtual host files to fit your configurations, you can remove/delete the "includes" directory, it is not needed past this point.`
-
-Which includes the following web based settings and configuration.
-
-Avalyn Web Configuration. (Main Configuration)
--
-- [Home] (<a href="https://getavalyn.org/" target="_blank">home.html</a>)
-- - [About] (<a href="https://getavalyn.org/about" target="_blank">about.html</a>)
-- - - [Invite] (<a href="https://getavalyn.org/invite" target="_blank">invite.html</a>)
-- - - - [Donate] (<a href="https://getavalyn.org/donate" target="_blank">donate.html</a>)
-
-Avalyn Web Settings/Configuration. (Developmental)
--
-- [Developmental] (<a href="https://getavalyn.org/dev" target="_blank">hub.html</a>)
-- - [Avalyn (AVY)] (<a href="https://getavalyn.org/dev/crypto" target="_blank">crypto.html</a>)
-- - - [Avalyn Blockchain] (<a href="https://getavalyn.org/dev/blockchain" target="_blank">blocks.html</a>)
-- - - - [Avalyn Wallet] (<a href="https://getavalyn.org/dev/wallet" target="_blank">wallet.html</a>)
-
-Avalyn Support/Donation Methods. (Can be changed)
--
-- [PayPal] (<a href="https://getavalyn.org/donate/paypal" target="_blank">paypal.html</a>)
-- - [Bitcoin] (<a href="https://getavalyn.org/donate/btc" target="_blank">btc.html</a>)
-- - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a>)
-- - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a>)
-
-`All support is truly appreciated.`
-
-# Avalyn RPC Client
-With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
-
-This light-weight RPC client allows ease of use, as it allows some functions to be operated outside of the Discord Framework.
-
-Some use cases include functions that are bound to the Avalyn Blockchain and the Avalyn Web UI.
-
-
-Avalyn RPC Usage Cases
--
-This includes, but not limited to
-
-- Genesis Block Creation. (/genesis)
-- Avalyn Crypto Wallet Creation. (/wallet)
-- Avalyn Blockchain Data. (/height, /blocks [Number Number])
-- Stock or Cryptocurrency Price Checks. (/stock [Name/Ticker], /crypto [Name/Ticker])
-
+#
 
 Updates to the
 - Assistant application.
@@ -330,4 +221,4 @@ Side note to the users, Avalyn Discord Assistant tries to collect as little data
 
 The only actual data that is used is the data within the configuration, even then it is only passed when it is required and only to the respective locations as needed.
 
-#
+

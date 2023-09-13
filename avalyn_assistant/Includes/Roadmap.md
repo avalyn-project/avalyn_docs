@@ -14,7 +14,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 02/17/2023 [`February 17th, 2023`]
-- - Avalyn was created, development of the Discord assistant began.
+- - Development started on the Avalyn multi-function Discord assistant.
 
 #
 

@@ -14,7 +14,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 02/17/2023 [`February 17th, 2023`]
-- - Development started on the Avalyn multi-function Discord assistant.
+- - `Development started` on the `Avalyn` `secure` and `multi-function` Discord assistant.
 
 #
 
@@ -29,23 +29,23 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 03/16/2023 [`March 16th, 2023`]
-- - Development halted, due to development on other projects.
+- - `Development halted`, due to `development` on `other projects`.
  
 #
 
 - 05/03/2023 [`May 3rd, 2023`]
 - - Development on the Avalyn Web UI started.
-- - Finalized Blockchain commands addition. `/genesis` `/height`
+- - `Finalized Blockchain` commands addition. `/genesis` `/height`
 
 #
 
 - 05/27/2023 [`May 27th, 2023`]
-- - Addition of the Avalyn Web UI in main project.
+- - `Addition` of the `Avalyn Web UI` in main project.
 
 #
 
 - 06/08/2023 [`June 8th, 2023`]
-- - Development on the Avalyn RPC Client started.
+- - `Development` on the `Avalyn RPC Client` started.
 
 #
 

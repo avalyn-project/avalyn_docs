@@ -44,27 +44,27 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-- 06/08/2023 []
+- 06/08/2023 [`June 8th, 2023`]
 - - Development on the Avalyn RPC Client started.
 
 #
 
-- 06/20/2023 []
+- 06/20/2023 [`June 20th, 2023`]
 - - Addition of the Avalyn RPC Client in main project.
 
 #
 
-- 07/23/2023 []
+- 07/23/2023 [`July 23rd, 2023`]
 - - The official GitHub for The Avalyn Project was created.
 
 #
 
-- 08/12/2023 []
+- 08/12/2023 [`August 12th, 2023`]
 - - Development halted, due to development on other projects.
 
 #
 
-- 09/07/2023 []
+- 09/07/2023 [`September 7th, 2023`]
 - - The Avalyn Project official GitHub Repository created!
 
 #

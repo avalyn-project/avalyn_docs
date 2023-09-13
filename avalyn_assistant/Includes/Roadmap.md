@@ -70,6 +70,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 09/13/2023 [`September 13th, 2023`]
-> `Generate Genesis` Added to the `Developmental`
+> `Generate Genesis` Added to the `Developmental` section of the `Avalyn Web UI`.
 
 #

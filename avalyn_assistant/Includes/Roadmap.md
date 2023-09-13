@@ -1,4 +1,9 @@
+#
+
+// Copyright (c) The Avalyn Project 2023
+
 # 
+
 <p align="center">
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>

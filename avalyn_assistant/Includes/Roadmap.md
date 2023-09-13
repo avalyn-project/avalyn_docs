@@ -14,17 +14,17 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 02/17/2023 [`February 17th, 2023`]
-- - `Development started` on the `Avalyn` `secure` and `multi-function` Discord assistant.
+> Development started on the Avalyn secure and multi-function Discord assistant.
 
 #
 
 - 03/12/2023 [`March 12th, 2023`]
-- - Finalized initial commands addition. `/ban` `/kick` `/ping` `/purge`
+> Finalized initial commands addition. `/ban` `/kick` `/ping` `/purge`
 
 #
 
 - 03/15/2023 [`March 15th, 2023`]
-- - Finalized initial commands addition. `/server` `/user` `/specs` `/reload`
+> Finalized initial commands addition. `/server` `/user` `/specs` `/reload`
 
 #
 

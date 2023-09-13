@@ -13,7 +13,9 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-Welcome to the `Avalyn` `secure` and `multi-function` `Discord` `assistant` `Roadmap`, a complete developmental history and record of the application, `created and maintained` by `The Avalyn Project` `2023`.
+Welcome to the Avalyn secure and multi-function Discord assistant Roadmap, a complete developmental history and record of the application, created and maintained by The Avalyn Project 2023.
+
+#
 
 - 02/17/2023 [`February 17th, 2023`]
 > `Development started` on the Avalyn secure and multi-function Discord assistant.

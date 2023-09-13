@@ -14,17 +14,17 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 02/17/2023 [`February 17th, 2023`]
-> Development started on the Avalyn secure and multi-function Discord assistant.
+> `Development started` on the Avalyn secure and multi-function Discord assistant.
 
 #
 
 - 03/12/2023 [`March 12th, 2023`]
-> Finalized initial commands addition. `/ban` `/kick` `/ping` `/purge`
+> `Finalized initial` commands addition. `/ban` `/kick` `/ping` `/purge`
 
 #
 
 - 03/15/2023 [`March 15th, 2023`]
-> Finalized initial commands addition. `/server` `/user` `/specs` `/reload`
+> `Finalized initial` commands addition. `/server` `/user` `/specs` `/reload`
 
 #
 
@@ -45,31 +45,31 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 06/08/2023 [`June 8th, 2023`]
-> `Development` on the `Avalyn RPC Client` started.
+> `Development started` on the `Avalyn RPC Client`.
 
 #
 
 - 06/20/2023 [`June 20th, 2023`]
-- - `Addition` of the `Avalyn RPC Client` in main project.
+> `Addition` of the `Avalyn RPC Client` in main project.
 
 #
 
 - 07/23/2023 [`July 23rd, 2023`]
-- - The official `GitHub` for `The Avalyn Project` was created.
+> The official `GitHub` for `The Avalyn Project` was created.
 
 #
 
 - 08/12/2023 [`August 12th, 2023`]
-- - `Development halted`, due to `development` on `other projects`.
+> `Development halted`, due to `development` on `other projects`.
 
 #
 
 - 09/07/2023 [`September 7th, 2023`]
-- - `The Avalyn Project` official `GitHub Repository` created!
+> `The Avalyn Project` official `GitHub Repository` created!
 
 #
 
 - 09/13/2023 [`September 13th, 2023`]
-- - `Generate Genesis` Added to the `Developmental`
+> `Generate Genesis` Added to the `Developmental`
 
 #

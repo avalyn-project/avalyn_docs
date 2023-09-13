@@ -1,6 +1,3 @@
-#
-
-// Copyright (c) The Avalyn Project 2023
 
 # 
 

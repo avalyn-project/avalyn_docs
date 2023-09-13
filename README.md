@@ -9,3 +9,5 @@
 A security-focused, fully customizable, Discord assistant, with a customizable frontend Web UI and backend RPC Client for ease of use.
 
 - - Documentation URL `https://github.com/avalyn-project/avalyn_docs/tree/main/avalyn_assistant`
+
+#

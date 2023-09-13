@@ -5,3 +5,4 @@
 #
 
 - Project Name `Avalyn Assistant`
+- - Documentation URL `https://github.com/avalyn-project/avalyn_docs/tree/main/avalyn_assistant`

@@ -65,6 +65,11 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 09/07/2023 [`September 7th, 2023`]
-- - The Avalyn Project official GitHub Repository created!
+- - `The Avalyn Project` official `GitHub Repository` created!
+
+#
+
+- 09/13/2023 [`September 13th, 2023`]
+- - `Generate Genesis` Added to the `Developmental`
 
 #

@@ -13,22 +13,22 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-- 02/17/2023 []
+- 02/17/2023 [February 2nd, 2023]
 - - Avalyn was created, development of the Discord assistant began.
 
 #
 
-- 03/12/2023 []
+- 03/12/2023 [March 12th, 2023]
 - - Finalized initial commands addition. `/ban` `/kick` `/ping` `/purge`
 
 #
 
-- 03/15/2023 []
+- 03/15/2023 [March 15th, 2023]
 - - Finalized initial commands addition. `/server` `/user` `/specs` `/reload`
 
 #
 
-- 03/16/2023 []
+- 03/16/2023 [March 16th, 2023]
 - - Development halted, due to development on other projects.
  
 #

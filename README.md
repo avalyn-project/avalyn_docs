@@ -4,4 +4,4 @@
 
 #
 
-- Project Name
+- Project Name `Avalyn Assistant`

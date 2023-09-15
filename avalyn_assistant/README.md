@@ -229,3 +229,9 @@ Side note to the users, Avalyn Discord Assistant tries to collect as little data
 The only actual data that is used is the data within the configuration, even then it is only passed when it is required and only to the respective locations as needed.
 
 #
+
+<p align="center">
+Copyright (c) The Avalyn Project 2023
+</p>
+
+#

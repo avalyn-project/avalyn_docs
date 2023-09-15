@@ -18,7 +18,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 <p align="center">
-Copytight (c) The Avalyn Project 2023
+Copyright (c) The Avalyn Project 2023
 </p>
 
 #

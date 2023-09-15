@@ -1,3 +1,16 @@
+# 
+<p align="center">
+<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
+</p>
+
+#
+
+<p align="center">
+Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI. | Backend RPC Client.
+</p>
+
+#
+
 # Avalyn RPC Client
 With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
 

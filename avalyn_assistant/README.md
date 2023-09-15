@@ -11,7 +11,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-> <a href="./Includes/Discord/Commands.md" target="_blank">Full Discord Documentation.</a> [Current Commands & Beta Commands]
+> <a href="./Includes/Discord/" target="_blank">Full Discord Documentation.</a> [Current Commands & Beta Commands]
 
 > <a href="./Includes/Web-UI/" target="_blank">Full Web UI Documentation.</a> [Current Features & Beta Features]
 

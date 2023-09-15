@@ -13,6 +13,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 ## Full Avalyn RPC Client Documentation
 
-> This is simply an archive of the `development` of the `Avalyn RPC Client`.
+> This is simply an archive for the `development` of the `Avalyn RPC Client`.
 
 #

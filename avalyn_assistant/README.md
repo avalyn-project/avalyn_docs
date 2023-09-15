@@ -11,13 +11,13 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-> <a href="./Includes/Discord/" target="_blank">Full Discord Documentation.</a> [Current Commands & Beta Commands]
+> <a href="./Includes/Discord/" target="_blank">Full Discord Documentation.</a> [Development, Commands, and Features.]
 
-> <a href="./Includes/Web-UI/" target="_blank">Full Web UI Documentation.</a> [Current Features & Beta Features]
+> <a href="./Includes/Web-UI/" target="_blank">Full Web UI Documentation.</a> [Web UI Development and Updates.]
 
-> <a href="./Includes/RPC-Client/" target="_blank">Full RPC Client Documentation.</a> [Current Features & Beta Features]
+> <a href="./Includes/RPC-Client/" target="_blank">Full RPC Client Documentation.</a> [RPC Client Development and Updates.]
 
-> <a href="./Includes/Roadmap.md" target="_blank">Avalyn Complete Roadmap.</a> [The Avalyn Project developmental Roadmap.]
+> <a href="./Includes/Roadmap.md" target="_blank">Avalyn Complete Roadmap.</a> [The Avalyn Project Developmental Roadmap.]
 
 > <a href="./Includes/Instructions" target="_blank">Avalyn Web UI & RPC Client Setup.</a> [Instruction on how to setup Avalyn.]
 

@@ -13,6 +13,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 ## Full Avalyn Web UI Documentation
 
-> This is simply an archive of the `development` of the `Avalyn Web UI`.
+> This is simply an archive for the `development` of the `Avalyn Web UI`.
 
 #

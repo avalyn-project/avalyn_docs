@@ -77,3 +77,13 @@ Welcome to the Avalyn secure and multi-function Discord assistant Roadmap, a com
 > `Addition` of `Generate Genesis` the `Developmental` section of the `Avalyn Web UI`.
 
 #
+
+- 09/14/2023 [`September 13th, 2023`]
+> `Finalized Removal` of the `Developmental` section within the `Build Releases` of Avalyn.
+
+#
+
+- 09/14/2023 [`September 13th, 2023`]
+> `Finalized Temporary Removal` of the `RPC Client` section within the `Build Releases` in order to complete the `Web UI` and `Built-In HTML Editor` for Avalyn.
+
+#

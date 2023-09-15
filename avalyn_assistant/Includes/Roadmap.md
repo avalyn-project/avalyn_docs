@@ -87,3 +87,9 @@ Welcome to the Avalyn secure and multi-function Discord assistant Roadmap, a com
 > `Finalized Temporary Removal` of the `RPC Client` section within the `Build Releases` in order to complete the `Web UI` and `Built-In HTML Editor` for Avalyn.
 
 #
+
+<p align="center">
+Copyright (c) The Avalyn Project 2023
+</p>
+
+#

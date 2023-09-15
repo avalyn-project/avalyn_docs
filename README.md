@@ -26,3 +26,9 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 - Documentation URL https://github.com/avalyn-project/avalyn_docs/tree/main/avalyn_assistant
 
 #
+
+<p align="center">
+Copyright (c) The Avalyn Project 2023
+</p>
+
+#

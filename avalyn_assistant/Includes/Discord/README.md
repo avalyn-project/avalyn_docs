@@ -13,6 +13,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 ## Full Avalyn Discord Documentation
 
-> This is simply an archive of the development of the Avalyn Discord assistant.
+> This is simply an archive for the `development` of the `Avalyn Discord assistant`.
 
 #

@@ -16,7 +16,7 @@ You will need to
 - Create or edit the web-ui directory within the Document Root directory. /path/to/document/root/dir/web-ui
 - Copy the required files (301.html, 404.html, 502.html, 503.html) into the web-ui directory, or simply create your own.
 
-Web UI SSL Certificate
+Web UI & RPC Client SSL Certificate Template
 
 <VirtualHost *:80> 
   ProxyPreserveHost On

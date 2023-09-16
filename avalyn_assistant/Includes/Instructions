@@ -1,11 +1,20 @@
-// Copyright (c) The Avalyn Project 2023
-
+// Copyright (c) 2023 The Avalyn Project
+//
 // This file is an included SSL configuration for the WEB UI and RPC Client
 
 If you are unsure as to how you should set these files up, that is what this file is for.
 
 First, instead of spending tons of time trying to figure out the SSL creation, you can setup SSL certificates with ease using certbot
+What files will be included?
+- 301.html
+- 404.html
+- 502.html
+- 503.html
 
+You will need to
+- Create the initial Document Root directory. /path/to/document/root/dir
+- Create or edit the web-ui directory within the Document Root directory. /path/to/document/root/dir/web-ui
+- Copy the required files (301.html, 404.html, 502.html, 503.html) into the web-ui directory, or simply create your own.
 
 Web UI SSL Certificate
 
@@ -13,13 +22,11 @@ Web UI SSL Certificate
   ProxyPreserveHost On
   ProxyRequests Off
   ServerAdmin server@example.com
-  ServerName web.example.com
-  ServerAlias web.example.com
+  ServerName example.com
+  ServerAlias www.example.com
 
-Redirect 301 / https://web.example.com/
-RewriteEngine on
-RewriteCond %{SERVER_NAME} =web.example.com
-RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+  DocumentRoot /path/to/document/root/dir
+  Redirect 301 / https://example.com/
 </VirtualHost> 
 
 <IfModule mod_ssl.c>
@@ -27,43 +34,19 @@ RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
   ProxyPreserveHost On
   ProxyRequests Off
   ServerAdmin server@example.com
-  ServerName web.example.com
-  ServerAlias web.example.com
-  ProxyPass / http://web.example.com:1280/
-  ProxyPassReverse / http://web.example.com:1280/
-SSLCertificateFile /etc/letsencrypt/live/web.example.com/fullchain.pem
-SSLCertificateKeyFile /etc/letsencrypt/live/web.example.com/privkey.pem
-Include /etc/letsencrypt/options-ssl-apache.conf
+  ServerName example.com
+  ServerAlias www.example.com
+
+  DocumentRoot /path/to/document/root/dir
+  ProxyPass /web-ui/errors/ ! 
+  ErrorDocument 503 /web-ui/errors/503.html
+
+  ProxyPass / http://example.com:1280/
+  ProxyPassReverse / http://example.com:1280/
+  SSLCertificateFile /etc/letsencrypt/live/example.com/fullchain.pem
+  SSLCertificateKeyFile /etc/letsencrypt/live/example.com/privkey.pem
+  Include /etc/letsencrypt/options-ssl-apache.conf
 </VirtualHost>
 </IfModule>
 
-
-RPC Client SSL Certificate
-
-<VirtualHost *:80>
-  ProxyPreserveHost On
-  ProxyRequests Off
-  ServerAdmin server@example.com
-  ServerName rpc-client.example.com
-  ServerAlias rpc-client.example.com
-
-Redirect 301 / https://rpc-client.example.com/
-RewriteEngine on
-RewriteCond %{SERVER_NAME} =rpc-client.example.com
-RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
-</VirtualHost>
-
-<IfModule mod_ssl.c>
-<VirtualHost *:443>
-  ProxyPreserveHost On
-  ProxyRequests Off
-  ServerAdmin server@example.com
-  ServerName rpc-client.example.com
-  ServerAlias rpc-client.example.com
-  ProxyPass / http://rpc-client.example.com:1281/
-  ProxyPassReverse / http://rpc-client.example.com:1281/
-Include /etc/letsencrypt/options-ssl-apache.conf
-SSLCertificateFile /etc/letsencrypt/live/rpc-client.example.com/fullchain.pem
-SSLCertificateKeyFile /etc/letsencrypt/live/rpc-client.example.com/privkey.pem
-</VirtualHost>
-</IfModule>
+This is an easy clean up method, if you decide to uninstall The Avalyn Client.

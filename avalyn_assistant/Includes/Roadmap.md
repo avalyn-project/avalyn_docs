@@ -88,7 +88,7 @@ Welcome to the Avalyn secure and multi-function Discord assistant Roadmap, a com
 
 #
 
-- 09/14/2023 [`September 14th, 2023`]
+- 09/17/2023 [`September 17th, 2023`]
 > Combined the `init.js` and `cmds.js`, `project modification` and `organization`.
 
 #

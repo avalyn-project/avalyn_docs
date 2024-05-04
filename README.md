@@ -14,11 +14,17 @@ Server [Adminstration] Commands.
 Slash [/] Commands.
 
 /ban [user] [reason] - Allows the ban of a specified user.
+
 /help - Displays the help information of ModFox.
+
 /kick [user] [reason] - Allows the kick of a specified user.
+
 /nick [user] [change] - Changes the nickname of a specified user to the specified change.
+
 /policy - Displays the ModFox current Privacy Policy.
+
 /ping - Display the latency/ping of ModFox. [Soon to be removed/included into the /status command.]
+
 /purge - Allows removal of a specified amount of messages.
 /reload - Reloads a specific ModFox command.
 /roles - Displays the current servers roles of the command user.

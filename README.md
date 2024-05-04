@@ -55,6 +55,7 @@ Support [Team] Commands.
 Slash [/] Commands.
 
 /roles - Displays the current servers roles of the command user.
+
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
@@ -65,6 +66,7 @@ Booster [Member] Commands.
 Slash [/] Commands.
 
 /roles - Displays the current servers roles of the command user.
+
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
@@ -75,17 +77,20 @@ Server [Member] Commands.
 Slash [/] Commands.
 
 /roles - Displays the current servers roles of the command user.
+
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
+-
 N/A
-------------------------------------------------------------------------------------------------------------------------------------------------
+
 Server [Member] Commands.
+-
 @Unverified [Members]
 Slash [/] Commands.
 
 /verify - Initializes the server verification protocol, via ModFox.
 
 Prefix [!] Commands.
+-
 N/A
--------------------------------------------------------------------------------------------------------------------

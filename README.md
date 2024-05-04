@@ -8,7 +8,6 @@ RPC Client.
 Built-in web system (html)
 
 Commands.
-------------------------------------------------------------------------------------------------------------------------------------------------
 Server [Adminstration] Commands.
 @Server [Operators], @Human [Resources], @Moderation [Team]
 Slash [/] Commands.

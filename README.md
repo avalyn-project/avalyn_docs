@@ -26,18 +26,26 @@ Slash [/] Commands.
 /ping - Display the latency/ping of ModFox. [Soon to be removed/included into the /status command.]
 
 /purge - Allows removal of a specified amount of messages.
+
 /reload - Reloads a specific ModFox command.
+
 /roles - Displays the current servers roles of the command user.
+
 /server - Displays statistics of the current server. [Soon to be removed/included into the /status command.]
+
 /specs - Displays the specifications of ModFox.
+
 /timeout [user] [reason] [time] - Proceeds to timeout the specified user, for the specified amount of time.
+
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
-
 !api - 
+
 !oauth2 - 
+
 !rpc - 
+
 !status - 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Support [Team] Commands.

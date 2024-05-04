@@ -13,6 +13,7 @@ Commands.
 -
 Server [Adminstration] Commands.
 @Server [Operators], @Human [Resources], @Moderation [Team]
+
 Slash [/] Commands.
 -
 /ban [user] [reason] - Allows the ban of a specified user.

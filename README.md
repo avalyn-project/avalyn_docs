@@ -9,7 +9,7 @@ OAuth2 Server.
 RPC Client.
 Built-in web system (html)
 
-Commands.
+Command Role(s).
 -
 Server [Adminstration] Commands.
 @Server [Operators], @Human [Resources], @Moderation [Team]
@@ -52,7 +52,7 @@ Prefix [!] Commands.
 
 !status - 
 
-Support [Team] Commands.
+Support [Team] Command Role(s).
 -
 @Support [Team], @Appeals [Team]
 Slash [/] Commands.
@@ -63,7 +63,7 @@ Slash [/] Commands.
 
 Prefix [!] Commands.
 -
-Booster [Member] Commands.
+Booster [Member] Command Role(s).
 -
 @Server [Boosters]
 Slash [/] Commands.
@@ -74,7 +74,7 @@ Slash [/] Commands.
 
 Prefix [!] Commands.
 -
-Server [Member] Commands.
+Server [Member] Command Role(s).
 -
 @Verified [Members]
 Slash [/] Commands.
@@ -87,11 +87,11 @@ Prefix [!] Commands.
 -
 N/A
 
-Server [Member] Commands.
+Server [Member] Command Role(s).
 -
 @Unverified [Members]
 Slash [/] Commands.
-
+-
 /verify - Initializes the server verification protocol, via ModFox.
 
 Prefix [!] Commands.

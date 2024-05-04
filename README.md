@@ -39,8 +39,8 @@ Slash [/] Commands.
 
 /work - Starts your work session with ModFox, for FoxCoins.
 
-# Prefix [!] Commands.
-
+Prefix [!] Commands.
+-
 !api - 
 
 !oauth2 - 
@@ -49,8 +49,8 @@ Slash [/] Commands.
 
 !status - 
 
-------------------------------------------------------------------------------------------------------------------------------------------------
 Support [Team] Commands.
+-
 @Support [Team], @Appeals [Team]
 Slash [/] Commands.
 
@@ -58,8 +58,9 @@ Slash [/] Commands.
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
-------------------------------------------------------------------------------------------------------------------------------------------------
+-
 Booster [Member] Commands.
+-
 @Server [Boosters]
 Slash [/] Commands.
 
@@ -67,8 +68,9 @@ Slash [/] Commands.
 /work - Starts your work session with ModFox, for FoxCoins.
 
 Prefix [!] Commands.
-------------------------------------------------------------------------------------------------------------------------------------------------
+-
 Server [Member] Commands.
+-
 @Verified [Members]
 Slash [/] Commands.
 

@@ -39,7 +39,8 @@ Slash [/] Commands.
 
 /work - Starts your work session with ModFox, for FoxCoins.
 
-Prefix [!] Commands.
+# Prefix [!] Commands.
+
 !api - 
 
 !oauth2 - 

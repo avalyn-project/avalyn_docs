@@ -3,7 +3,7 @@
 ModFox [c] 2023 - 2024.
 -
 This project was officially started within the month of November of 2023.
-
+--
 Welcome to the ModFox official 'Read Me' (README.md) file.
 
 ModFox is a security-focused Discord server application, that not only simplifies the moderation of your server, channels, and the organization of its users.
